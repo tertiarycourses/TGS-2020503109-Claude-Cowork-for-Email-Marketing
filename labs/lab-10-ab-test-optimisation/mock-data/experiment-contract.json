@@ -1,0 +1,6 @@
+{
+  "hypothesis": "Variant B subject increases unique click rate",
+  "primary_metric": "unique_clicks/delivered",
+  "guardrail": "unsubscribes/delivered <= 0.007",
+  "decision": "retest unless lift is material and guardrail passes"
+}

@@ -1,0 +1,15 @@
+{
+  "lab_id": 1,
+  "status": "PASS",
+  "source_files": [
+    "brand-guidelines.json",
+    "campaign-brief.json",
+    "customer-interviews.csv"
+  ],
+  "artifacts": [
+    "Validated strategy brief, channel matrix and assumption log"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "One primary objective, audience, value exchange, metrics, guardrails and source-backed assumptions are explicit."
+}

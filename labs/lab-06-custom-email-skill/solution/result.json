@@ -1,0 +1,15 @@
+{
+  "lab_id": 6,
+  "status": "PASS",
+  "source_files": [
+    "brand-guidelines.json",
+    "campaign-brief.json",
+    "customer-interviews.csv"
+  ],
+  "artifacts": [
+    "SKILL.md, templates, test cases and sample output"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "The Skill activates only for intended campaign tasks and produces a schema-valid, brand-scored draft."
+}

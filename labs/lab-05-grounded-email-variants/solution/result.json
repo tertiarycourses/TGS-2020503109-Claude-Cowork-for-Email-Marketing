@@ -1,0 +1,15 @@
+{
+  "lab_id": 5,
+  "status": "PASS",
+  "source_files": [
+    "brand-guidelines.json",
+    "campaign-brief.json",
+    "customer-interviews.csv"
+  ],
+  "artifacts": [
+    "Two complete email variants, claim map and editorial scorecard"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "Each email has one CTA, accessible structure, supported claims and a passed brand/compliance scorecard."
+}

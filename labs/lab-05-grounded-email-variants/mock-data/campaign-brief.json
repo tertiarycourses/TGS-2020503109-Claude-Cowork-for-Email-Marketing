@@ -1,0 +1,9 @@
+{
+  "objective": "Generate qualified trial-class reservations",
+  "audience": "Opted-in professionals aged 28-45 who selected evening classes",
+  "primary_metric": "reservation_rate",
+  "guardrails": [
+    "unsubscribe_rate <= 0.5%",
+    "no unsupported health claims"
+  ]
+}

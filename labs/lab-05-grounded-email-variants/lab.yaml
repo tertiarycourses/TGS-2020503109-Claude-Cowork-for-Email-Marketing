@@ -1,0 +1,12 @@
+id: 05
+course_code: TGS-2020503109
+title: "Draft Grounded Email Variants"
+topic: 3
+mode: synthetic_dry_run
+human_gate: true
+inputs:
+  - mock-data/
+outputs:
+  - solution/result.json
+verification: python3 scripts/verify_lab.py
+acceptance: "Each email has one CTA, accessible structure, supported claims and a passed brand/compliance scorecard."

@@ -1,0 +1,15 @@
+{
+  "lab_id": 7,
+  "status": "PASS",
+  "source_files": [
+    "approved-draft.json",
+    "connector-registry.json",
+    "untrusted-inbound.txt"
+  ],
+  "artifacts": [
+    "Connector map, permission register and injection test"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "No live send occurs; scopes are minimal; embedded instructions are blocked and surfaced for human review."
+}

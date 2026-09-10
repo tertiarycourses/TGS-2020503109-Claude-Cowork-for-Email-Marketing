@@ -1,0 +1,6 @@
+{
+  "delivery_rate": "delivered/sent",
+  "click_rate": "unique_clicks/delivered",
+  "conversion_rate": "conversions/delivered",
+  "unsubscribe_rate": "unsubscribes/delivered"
+}

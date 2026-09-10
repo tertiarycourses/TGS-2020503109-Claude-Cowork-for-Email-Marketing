@@ -1,0 +1,14 @@
+{
+  "lab_id": 3,
+  "status": "PASS",
+  "source_files": [
+    "audience.csv",
+    "data-dictionary.json"
+  ],
+  "artifacts": [
+    "Cleaned CSV, data-quality report and suppression ledger"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "All rows reconcile to kept, suppressed or review states; no personal data leaves the lab folder."
+}

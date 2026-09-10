@@ -1,0 +1,5 @@
+campaign,variant,sent,delivered,unique_opens,unique_clicks,conversions,unsubscribes
+Welcome,A,1000,970,420,140,34,3
+Welcome,B,1000,965,455,151,32,4
+Launch,A,1200,1150,390,118,41,7
+Launch,B,1200,1144,438,149,55,6

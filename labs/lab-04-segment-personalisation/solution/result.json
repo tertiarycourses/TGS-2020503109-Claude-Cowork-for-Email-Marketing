@@ -1,0 +1,14 @@
+{
+  "lab_id": 4,
+  "status": "PASS",
+  "source_files": [
+    "audience.csv",
+    "data-dictionary.json"
+  ],
+  "artifacts": [
+    "Segment manifest, member preview and fallback matrix"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "Rules reproduce member counts, suppressed contacts are excluded and sensitive attributes are not used."
+}

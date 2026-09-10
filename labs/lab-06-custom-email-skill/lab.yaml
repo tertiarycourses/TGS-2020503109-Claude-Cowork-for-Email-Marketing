@@ -1,0 +1,12 @@
+id: 06
+course_code: TGS-2020503109
+title: "Package a Reusable Email Campaign Skill"
+topic: 3
+mode: synthetic_dry_run
+human_gate: false
+inputs:
+  - mock-data/
+outputs:
+  - solution/result.json
+verification: python3 scripts/verify_lab.py
+acceptance: "The Skill activates only for intended campaign tasks and produces a schema-valid, brand-scored draft."

@@ -1,0 +1,15 @@
+{
+  "lab_id": 8,
+  "status": "PASS",
+  "source_files": [
+    "approved-draft.json",
+    "connector-registry.json",
+    "untrusted-inbound.txt"
+  ],
+  "artifacts": [
+    "Workflow YAML, content hash, approval receipt and run log"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "Exactly one dry-run schedule is recorded for the approved payload; rejection, expiry and retry cases stop safely."
+}

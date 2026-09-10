@@ -1,0 +1,13 @@
+{
+  "status": [
+    "subscribed",
+    "unsubscribed",
+    "hard_bounce",
+    "review"
+  ],
+  "interest": [
+    "evening",
+    "weekend"
+  ],
+  "rule": "send only when status=subscribed and consent_at is present"
+}

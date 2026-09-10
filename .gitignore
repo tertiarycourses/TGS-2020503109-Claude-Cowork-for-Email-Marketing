@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+qa/
+build/
+courseware/archive/
+courseware/assets/
+*.pptx
+*.docx
+__pycache__/
+*.pyc

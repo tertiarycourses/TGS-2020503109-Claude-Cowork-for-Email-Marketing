@@ -1,0 +1,15 @@
+{
+  "lab_id": 10,
+  "status": "PASS",
+  "source_files": [
+    "campaign-summary.csv",
+    "experiment-contract.json",
+    "metric-dictionary.json"
+  ],
+  "artifacts": [
+    "Experiment result card, decision and prioritised backlog"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "The decision uses the frozen metric and guardrails, reports uncertainty and names an owner and review date."
+}

@@ -1,0 +1,15 @@
+{
+  "lab_id": 9,
+  "status": "PASS",
+  "source_files": [
+    "campaign-summary.csv",
+    "experiment-contract.json",
+    "metric-dictionary.json"
+  ],
+  "artifacts": [
+    "Reconciled metric table, funnel chart and diagnosis"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "All values reproduce from source rows and the finding distinguishes observation from causal hypothesis."
+}

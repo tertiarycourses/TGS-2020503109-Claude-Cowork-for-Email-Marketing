@@ -1,0 +1,14 @@
+{
+  "mock_esp": {
+    "mode": "dry_run",
+    "allowed": [
+      "create_draft",
+      "preview_schedule"
+    ],
+    "forbidden": [
+      "send",
+      "delete_contact",
+      "export_all"
+    ]
+  }
+}

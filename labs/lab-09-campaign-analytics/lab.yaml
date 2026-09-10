@@ -1,0 +1,12 @@
+id: 09
+course_code: TGS-2020503109
+title: "Analyse Campaign Performance"
+topic: 5
+mode: synthetic_dry_run
+human_gate: false
+inputs:
+  - mock-data/
+outputs:
+  - solution/result.json
+verification: python3 scripts/verify_lab.py
+acceptance: "All values reproduce from source rows and the finding distinguishes observation from causal hypothesis."

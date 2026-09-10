@@ -1,0 +1,8 @@
+contact_id,email,status,consent_at,interest,lifecycle,last_click_days
+C001,learner1@example.test,subscribed,2026-08-01,evening,new,4
+C002,learner2@example.test,unsubscribed,2026-07-03,evening,lapsed,80
+C003,learner3@example.test,subscribed,2026-08-14,weekend,active,12
+C003,learner3@example.test,subscribed,2026-08-14,weekend,active,12
+C004,bad-address,subscribed,2026-08-20,evening,new,
+C005,learner5@example.test,hard_bounce,2026-05-01,evening,lapsed,120
+C006,learner6@example.test,subscribed,,evening,new,2

@@ -1,0 +1,12 @@
+id: 10
+course_code: TGS-2020503109
+title: "Evaluate an A/B Test and Prioritise Improvements"
+topic: 5
+mode: synthetic_dry_run
+human_gate: true
+inputs:
+  - mock-data/
+outputs:
+  - solution/result.json
+verification: python3 scripts/verify_lab.py
+acceptance: "The decision uses the frozen metric and guardrails, reports uncertainty and names an owner and review date."

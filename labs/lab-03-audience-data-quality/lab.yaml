@@ -1,0 +1,12 @@
+id: 03
+course_code: TGS-2020503109
+title: "Audit and Repair an Audience Dataset"
+topic: 2
+mode: synthetic_dry_run
+human_gate: false
+inputs:
+  - mock-data/
+outputs:
+  - solution/result.json
+verification: python3 scripts/verify_lab.py
+acceptance: "All rows reconcile to kept, suppressed or review states; no personal data leaves the lab folder."

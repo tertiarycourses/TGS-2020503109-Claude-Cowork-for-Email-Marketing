@@ -1,0 +1,15 @@
+{
+  "lab_id": 2,
+  "status": "PASS",
+  "source_files": [
+    "brand-guidelines.json",
+    "campaign-brief.json",
+    "customer-interviews.csv"
+  ],
+  "artifacts": [
+    "Lifecycle map, lead-magnet proposition and consent copy"
+  ],
+  "decision": "Proceed only within the synthetic dry-run boundary",
+  "human_owner": "Learner reviewer",
+  "acceptance": "The promise matches the source evidence, consent is explicit and every lifecycle state has entry and exit rules."
+}
