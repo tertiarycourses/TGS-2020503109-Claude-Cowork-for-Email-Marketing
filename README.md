@@ -52,15 +52,16 @@ Each lab is self-contained and includes instructions, synthetic mock data, a pro
 
 ## Public package
 
-- Learner slide deck in PDF format
-- Learner Guide in PDF and Markdown formats
+- [Trainer slide deck (PPTX, v15.0)](courseware/PPT-Claude%20Cowork%20for%20Email%20Marketing-v15.0.pptx) and [Learner slide deck (PDF, v15.0)](courseware/PPT-Claude%20Cowork%20for%20Email%20Marketing-v15.0.pdf)
+- Lesson Plan: [DOCX](courseware/LP-Claude%20Cowork%20for%20Email%20Marketing-v14.0.docx) and [PDF](courseware/LP-Claude%20Cowork%20for%20Email%20Marketing-v14.0.pdf)
+- Learner Guide: [DOCX](courseware/LG-Claude%20Cowork%20for%20Email%20Marketing-v14.0.docx), [PDF](courseware/LG-Claude%20Cowork%20for%20Email%20Marketing-v14.0.pdf) and [Markdown](courseware/LG-Claude%20Cowork%20for%20Email%20Marketing.md)
 - Ten self-contained lab folders with mock data and verification scripts
 
 Detailed operational procedures are kept in the Learner Guide and lab packs; the slide deck focuses on concepts, mechanisms, controls, and evidence.
 
 ## Distribution boundary
 
-This public repository intentionally excludes assessment papers and answer keys, editable trainer documents, source references, credentials, build tooling, archives, and QA renders. Official controlled copies are distributed through Tertiary Infotech Academy's LMS and Google Drive courseware channels.
+This public repository intentionally excludes assessment papers and answer keys, source references, credentials, build tooling, archives, and QA renders. Official controlled copies are distributed through Tertiary Infotech Academy's LMS and Google Drive courseware channels.
 
 ## Provider
 
